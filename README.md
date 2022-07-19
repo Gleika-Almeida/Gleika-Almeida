@@ -7,7 +7,7 @@
 
 <!-- estatisticas-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=algolia&show_icons=true alt="gleika almeida github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=algolia&show_icons=true alt="gleika almeida github stats"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=algolia&show" />
 </div>
                                                                                                                                                 
