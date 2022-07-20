@@ -4,8 +4,10 @@
 
 <!-- estatisticas-->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=algolia&show_icons=true alt="gleika almeida github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=algolia&show" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=chartreuse-dark&show_icons=true alt="gleika almeida github stats"/> 
+ 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=chartreuse-dark&show" />
+  
 </div>
 
 <!--                                                                                                              
@@ -31,15 +33,18 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
    
-<!-- Connect with me -->
+<!-- Connect with me 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>   
+-->
 
-                                                                                                                                   
+
+
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
