@@ -1,6 +1,6 @@
 
  <!-- maquina de escrever -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;be+welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!+:%29)](https://git.io/typing-svg)
 
 <!-- estatisticas-->
 <div align="center">  
