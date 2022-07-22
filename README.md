@@ -11,7 +11,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
 
 
-
+<img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180463879-1974eb3d-8028-40fd-9600-c039c1a08fd9.gif" />
 
 <br/>
 
