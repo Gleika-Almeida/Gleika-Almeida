@@ -1,21 +1,23 @@
 
 
- <!-- maquina de escrever -->
+ <!-- -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!+:%29)](https://git.io/typing-svg)
 
 ### Languages and Tools:
-![html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=purple&labelColor=0D1117)&nbsp; 
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp; 
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=purple&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
-<img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180463879-1974eb3d-8028-40fd-9600-c039c1a08fd9.gif" />
+<img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180509050-593b7d00-a154-4903-84a5-f8def3a94a37.png"/>
 
 <br/>
 
-<!-- estatisticas-->
 
 
 <br/>
@@ -36,7 +38,9 @@
 ### Other Knowledge:
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-   
+ <br/>
+ 
+
 <!-- Connect with me 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
