@@ -45,12 +45,13 @@
 <a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>   
 -->
-
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=chartreuse-dark&show_icons=true alt="gleika almeida github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=chartreuse-dark&show" />
+<div align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=radical"/>
+  </a>
 </div>
+
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
