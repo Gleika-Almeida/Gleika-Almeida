@@ -16,10 +16,7 @@
 <br/>
 
 <!-- estatisticas-->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=chartreuse-dark&show_icons=true alt="gleika almeida github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=chartreuse-dark&show" />
-</div>
+
 
 <br/>
 <!--                                                                                                              
@@ -50,7 +47,10 @@
 -->
 
 
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show&theme=chartreuse-dark&show_icons=true alt="gleika almeida github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleika-Almeida&layout=&theme=chartreuse-dark&show" />
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
