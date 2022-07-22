@@ -1,7 +1,7 @@
 
 
  <!-- -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2df17&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!+:%29)](https://git.io/typing-svg)
 <br/>
 <br/>
 
@@ -15,10 +15,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-82c571?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
 <img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180509050-593b7d00-a154-4903-84a5-f8def3a94a37.png"/>
+
 
 <br/>
 <!--                                                                                                              
@@ -49,4 +50,6 @@
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
-<br></div>                                                                                                                                         
+<br></div>    
+
+<img align="right" height="100px" width="100%" alt="GIF" src="https://i.pinimg.com/564x/b4/99/05/b49905ee84ddc30ed7463159f8b14570.jpg"/>
