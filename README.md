@@ -10,9 +10,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=purple&labelColor=0D1117)&nbsp; 
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
 
-<h1 align="center"> </h1>
-<br/>
 
+
+
+<br/>
 
 <!-- estatisticas-->
 <div align="center">  
