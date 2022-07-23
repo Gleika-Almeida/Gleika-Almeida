@@ -49,12 +49,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=radical"/>
   </a>
 </div>
-<img align="right" height="150px" width="150px" alt="GIF" src="https://icons8.com/illustrations/illustration/transistor-robot"/>
 
+!
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
 <br></div>    
 
-<img align="right" height="100px" width="100%" alt="GIF" src="https://i.pinimg.com/564x/b4/99/05/b49905ee84ddc30ed7463159f8b14570.jpg"/>
+
