@@ -1,15 +1,13 @@
 
-
- <!-- -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e2df17&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!+:%29)](https://git.io/typing-svg)
 <br/>
 <br/>
 
-<i>
-Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.
-Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos terem pão...
 
-<i/>
+##### Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos terem pão...
+<i>Mario Sergio Cortella!</i>
+
+<img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180509050-593b7d00-a154-4903-84a5-f8def3a94a37.png"/>
 
 
 ### Languages and Tools:
@@ -25,7 +23,7 @@ Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos 
 ![Figma](https://img.shields.io/badge/Figma-82c571?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 
-<img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180509050-593b7d00-a154-4903-84a5-f8def3a94a37.png"/>
+
 
 
 <br/>
