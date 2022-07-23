@@ -4,8 +4,8 @@
 <br/>
 
 
-##### Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos terem pão...
-<i>Mario Sergio Cortella!</i>
+<i> Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos...
+</i>
 
 <img align="right" height="150px" width="150px" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180509050-593b7d00-a154-4903-84a5-f8def3a94a37.png"/>
 
