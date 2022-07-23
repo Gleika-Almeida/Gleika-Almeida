@@ -50,11 +50,10 @@
   </a>
 </div>
 
-!
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
-<br></div>    
+<div align="left">
+<p align="left"><b>Visitors Count</b></p>  
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
+</div>    
 
 
