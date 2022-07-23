@@ -49,7 +49,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=radical"/>
   </a>
 </div>
-
+<img align="right" height="150px" width="150px" alt="GIF" src="https://icons8.com/illustrations/illustration/transistor-robot"/>
 
 
 <div align="center">
