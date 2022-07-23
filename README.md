@@ -5,12 +5,10 @@
 <br/>
 <br/>
 
-
 <i> Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos...
 </i>
 
 <img align="right" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180620622-93218523-849c-4f51-984c-a2ae2f534d24.PNG"/>
-
 
 ### Languages and Tools:
 
@@ -24,38 +22,25 @@
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-82c571?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-
-
-
-
 <br/>
-<!--                                                                                                              
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
--->                                                                                                                                            
- 
-
- 
-
-<!-- Connect with me 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
+                                                                                                                                          
 <a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
 <a href="https://instagram.com/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
 </p>   
--->
+
 <div align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=vision-friendly-dark"/>
   </a>
 </div>
-
 
 <div align="left">
 <p align="left"><b>Visitors Count</b></p>  
 <p align="left"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
 </div>    
 
-
+<!--                                                                                                              
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+-->  
