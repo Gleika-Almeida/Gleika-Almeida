@@ -9,7 +9,7 @@
 <i> Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos...
 </i>
 
-<img align="right" height="200" width="200" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180620622-93218523-849c-4f51-984c-a2ae2f534d24.PNG"/>
+<img align="right" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180620622-93218523-849c-4f51-984c-a2ae2f534d24.PNG"/>
 
 
 ### Languages and Tools:
