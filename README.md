@@ -1,6 +1,8 @@
 &emsp; 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bungee+Shade&color=e2df17&size=50&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Gleika;Fancy+seeing+you+here!)](https://git.io/typing-svg)
  &emsp; 
+
+  
 <p align='center'> 
   Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos... 
 </p>
