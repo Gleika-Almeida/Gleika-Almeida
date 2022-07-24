@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<p><i> Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos...
+<p align='center'><i> Há um ditado chinês que diz que, se dois homens vêm andando por uma estrada, cada um carregando um pão, ao se encontrarem, eles trocam os pães; cada um vai embora com um. Porém, se dois homens vêm andando por uma estrada, cada um carregando uma idéia, ao se encontrarem, trocam as idéias; cada um vai embora com duas.Quem sabe, é esse mesmo o sentido do nosso fazer: repartir idéias, para todos...
 </p></i>
 
 <img align="right" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180620622-93218523-849c-4f51-984c-a2ae2f534d24.PNG"/>
@@ -29,6 +29,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=vision-friendly-dark"/>
   </a>
 </div>
+
 <br/>
 <div align="center">
 <p align="center"><b>Visitors Count</b></p>  
