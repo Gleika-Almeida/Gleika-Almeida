@@ -19,14 +19,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; 
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-82c571?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 <br/>
                                                                                                                                          
 <div align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=vision-friendly-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gleika-Almeida&show_icons=true&theme=vision-friendly-dark&hide_border=true"/>
   </a>
 </div>
 
