@@ -41,5 +41,5 @@
 </div>  
 
 <div align="center"  >
-<img align="center" height="100" width="100" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180659507-0f247978-24aa-46cd-96d3-57f83fd29079.PNG"/>
+<img align="center" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180790425-dad93021-4686-4973-a566-a7770cd0e9d0.png"/>
 </div>
