@@ -11,7 +11,7 @@
 
 <img align="right" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180620622-93218523-849c-4f51-984c-a2ae2f534d24.PNG"/>
 
-## Languages and Tools
+## Front end
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
