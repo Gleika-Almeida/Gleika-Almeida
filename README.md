@@ -34,12 +34,12 @@
 </div>
  
  &emsp; 
-  
+ < ! --
 <div align="center">
 <p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Gleika-Almeida}/count.svg" /></p> 
 </div>  
-
+-->
 <div align="center"  >
 <img align="center" height="150" width="150" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180790425-dad93021-4686-4973-a566-a7770cd0e9d0.png"/>
 </div>
