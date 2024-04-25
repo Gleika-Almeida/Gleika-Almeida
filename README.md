@@ -33,7 +33,6 @@ Como uma boa dev raiz, adoro café e uma conversa sobre tecnologia. Então, que 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23F05033.svg?style=for-the-badge&logo=Linux&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=SQL&logoColor=F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
