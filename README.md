@@ -6,9 +6,9 @@
 </div> 
 
 <h3>
-Sou desenvolvedora web ex Design Gráfico, com facínio especial pelo universo do UI Design. Embora os mistérios do Back End sejam parte do meu repertório, e o Front End que ocupa a maior parte do meu banco de dados.
-Como um array de contrastes, meu amor pela literatura clássica coexiste pacificamente com os desafios de lógica e algoritmo.Esta combinação única de interesses forma um framework que me proporciona uma perspectiva equilibrada e única em meu trabalho.
-Como uma boa dev raiz, adoro café e uma conversa sobre tecnologia. Então, que tal tomarmos um bom café e conversarmos mais sobre nossos interesses compartilhar conhecimetos? fique à vontade para explorar ou contribuir! 🫶️
+Sou desenvolvedora web e ex Design Gráfico, com facínio especial pelo universo do UI Design. Embora os mistérios do Back End sejam parte do meu repertório, é o Front End que ocupa a maior parte do meu banco de dados.
+Como um array de contrastes, meu amor pela literatura clássica coexiste pacificamente com os desafios de lógica e algoritmo.Esta combinação única de interesses forma um framework que me proporciona uma perspectiva equilibrada é única em meu trabalho.
+Como uma boa dev raiz, adoro café e uma conversa sobre tecnologia. Então, que tal tomarmos um bom café é conversarmos mais sobre nossos interesses compartilhar conhecimetos? fique à vontade para explorar ou contribuir! 🫶️
 </h3>
 
 <div align="right">
@@ -43,11 +43,9 @@ Como uma boa dev raiz, adoro café e uma conversa sobre tecnologia. Então, que 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<br>
+<br>
 
-
-
-   
- 
-<div align="center"  >
-<img align="center" height="100" width="100" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180790425-dad93021-4686-4973-a566-a7770cd0e9d0.png"/>
+<div align="right"  >
+<img align="right" height="100" width="100" alt="GIF" src="https://user-images.githubusercontent.com/109559491/180790425-dad93021-4686-4973-a566-a7770cd0e9d0.png"/>
 </div>
