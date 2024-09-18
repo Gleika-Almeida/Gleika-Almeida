@@ -1,11 +1,11 @@
 <div align="center">
 <br>
 
-<h1> ✨️ Saudação Dev, seja bem vindo! ✨️ </h1>
+<h1> ✨️ Saudação Dev, seja Bem-vindo! ✨️ </h1>
 
 </div> 
 
-Sou desenvolvedora web e ex Design Gráfico, com facínio especial pelo universo do UI Design. Embora os mistérios do Back End sejam parte do meu repertório, é o Front End que ocupa a maior parte do meu banco de dados.
+Sou desenvolvedora web é ex Design Gráfico, com facínio especial pelo universo do UI Design. Embora os mistérios do Back End sejam parte do meu repertório, é o Front End que ocupa a maior parte do meu banco de dados.
 Como um array de contrastes, meu amor pela literatura clássica coexiste pacificamente com os desafios de lógica e algoritmo.Esta combinação única de interesses forma um framework que me proporciona uma perspectiva equilibrada é única em meu trabalho.
 Como uma boa dev raiz, adoro café e uma conversa sobre tecnologia. Então, que tal tomarmos um bom café é conversarmos mais sobre nossos interesses compartilhar conhecimetos? fique à vontade para explorar ou contribuir! 🫶️
 
