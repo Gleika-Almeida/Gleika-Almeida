@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-<h1> ✨️ Saudação Dev, seja Bem-vindo! ✨️ </h1>
+<h1> ✨️ Seja Bem-vindo! ✨️ </h1>
 
 </div> 
 
